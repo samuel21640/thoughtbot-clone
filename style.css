@@ -1,0 +1,296 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+nav{
+    background-color: black;
+    height: 65px;
+    border-bottom: 1px solid grey;
+}
+.nav2{
+    padding: 15px;
+    margin-left: 15px;
+}
+.nav{
+    margin-left: 400px;
+    margin-top: -50px;
+    padding-left: 20px;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 19px;
+}
+.nav :hover{
+    color: red;
+
+}
+.but{
+    padding: 15px;
+    background-color: rebeccapurple;
+    color: white;
+    width: 130px;
+    border: none;
+    margin-left: 70px;
+    margin-top: -5px;
+    font-size: 16px;
+}
+.but:hover{
+    background-color: blueviolet;
+}
+main{
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    margin-top: 75px;
+}
+.para{
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+.para a{
+    color: gold;
+}
+.head{
+    width: 250px;
+    margin-left: 300px;
+    padding-top: 35px;
+}
+.head a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.head a:hover{
+    color: gold;
+}
+
+.p1{
+    color: white;
+    margin-left: 300px;
+    font-size: 22px;
+}
+.p2{
+    color: white;
+    margin-left: 300;
+    font-size: large;
+}
+.p2 a{
+    color: gold;
+    text-decoration: none;
+}
+.p2 a:hover{
+    color: white;
+}
+
+
+.head2{
+    width: 700px;
+    margin-left: 300px;
+    padding-top: 35px;
+}
+.head2 a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.head2 a:hover{
+    color: gold;
+}
+
+.p21{
+    color: white;
+    margin-left: 300px;
+    font-size: 22px;
+    width: 700px;
+}
+.p22{
+    color: white;
+    margin-left: 300;
+    font-size: large;
+    width: 700px;
+}
+.p22 a{
+    color: gold;
+    text-decoration: none;
+}
+.p22 a:hover{
+    color: white;
+}
+
+
+.head3{
+    width: 700px;
+    margin-left: 300px;
+    padding-top: 35px;
+}
+.head3 a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.head3 a:hover{
+    color: gold;
+}
+
+.p31{
+    color: white;
+    margin-left: 300px;
+    font-size: 22px;
+    width: 700px;
+}
+.p32{
+    color: white;
+    margin-left: 300;
+    font-size: large;
+    width: 700px;
+}
+.p32 a{
+    color: gold;
+    text-decoration: none;
+}
+.p32 a:hover{
+    color: white;
+}
+
+
+.head4{
+    width: 700px;
+    margin-left: 300px;
+    padding-top: 35px;
+}
+.head4 a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.head4 a:hover{
+    color: gold;
+}
+
+.p41{
+    color: white;
+    margin-left: 300px;
+    font-size: 22px;
+    width: 700px;
+}
+.p42{
+    color: white;
+    margin-left: 300;
+    font-size: large;
+    width: 700px;
+}
+.p42 a{
+    color: gold;
+    text-decoration: none;
+}
+.p42 a:hover{
+    color: white;
+}
+
+.head5{
+    width: 700px;
+    margin-left: 300px;
+    padding-top: 35px;
+}
+.head5 a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.head5 a:hover{
+    color: gold;
+}
+
+.p51{
+    color: white;
+    margin-left: 300px;
+    font-size: 22px;
+    width: 700px;
+}
+.p52{
+    color: white;
+    margin-left: 300;
+    font-size: large;
+    width: 700px;
+}
+.p52 a{
+    color: gold;
+    text-decoration: none;
+}
+.p52 a:hover{
+    color: white;
+}
+
+.page{
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 20px;
+}
+.page a{
+    color: gold;
+    text-decoration: none;
+}
+.page a:hover{
+    color: white;
+}
+
+.nl{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    border: 2px solid grey;
+    margin-left: 300px;
+    width: 700px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: larger;
+}
+.nl{
+    size: 600px;
+}
+.nl form input{
+    width: 450px;
+    height: 50px;
+    padding-right: 20px;
+}
+.nl button{
+    height: 50px;
+    width: 150px;
+    background-color: rebeccapurple;
+    color: white;
+}
+
+.ll{
+    margin-left: 100px;
+    margin-top: 140px;
+    margin-bottom: 70px;
+}
+.ll a{
+    color: white;
+    font-size: 22px;
+}
+.ll a:hover{
+    color: red;
+}
+footer p{
+    color: aliceblue;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+footer p a{
+    color: white;
+
+}
+footer p a:hover{
+    color: red;
+}
+
